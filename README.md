@@ -1,6 +1,6 @@
 <div align="center" dir="auto">
   
-### Hi there 👋
+### About Me 👨‍💻
 
 🔭 Self-taught cybersecurity and ethical hacking student as a pentester.
 
@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/e-r-b-g/" rel="nofollow">![Static Badge](https://img.shields.io/badge/linkedin-TesseGarasu-purple?logo=linkedin)</a>
 <a href="https://app.hackthebox.com/profile/1343256" rel="nofollow">![Static Badge](https://img.shields.io/badge/hackthebox-TesseGarasu-purple?logo=hackthebox)</a>
 
-### Technologies Stack
+### Technologies Stack 💾
 
 ![Static Badge](https://img.shields.io/badge/Python-Scripting-purple?logo=python)
 ![Static Badge](https://img.shields.io/badge/Bash-Scripting-purple?logo=gnubash)
