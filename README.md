@@ -1,6 +1,6 @@
 <div align="center" dir="auto">
   
-### About Me 👨‍💻
+### About Me 🧙‍♂️
 
 🔭 Self-taught cybersecurity and ethical hacking student as a pentester.
 
